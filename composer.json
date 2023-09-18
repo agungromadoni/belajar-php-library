@@ -9,5 +9,11 @@
         "psr-4": {
             "ProgrammerZamanNow\\Belajar\\" : "src/"
         }
-    }
+    },
+    "repositories" : [
+        {
+            "type": "vcs",
+            "url" : "https://github.com/agungromadoni/belajar-php-library"
+        }
+    ]
 }
